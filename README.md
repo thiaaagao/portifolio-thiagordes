@@ -21,18 +21,6 @@ Portfólio pessoal desenvolvido com Vue 3 + Vite.
 - Asatech
 - Contato
 
-## Rodar local
-
-```bash
-npm install
-npm run dev
-```
-
-Acesse `http://localhost:5173`.
-
 ## Deploy
 
-```bash
-npm run build
-vercel --prod
-```
+**https://portifolio-thiagordes.vercel.app**
