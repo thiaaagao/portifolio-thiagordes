@@ -52,7 +52,7 @@ onUnmounted(() => {
   <footer class="footer section" style="padding: 40px 0; text-align: center;">
     <div class="container">
       <p style="color: var(--text-muted); font-size: 0.9rem;">
-        &copy; 2026 Thiago Rodrigues &mdash; Feito com <span style="color: #ef4444;">&hearts;</span> e c&oacute;digo
+        © 2026 Thiago Rodrigues — Feito com <span style="color: #ef4444;">♥</span> e código
       </p>
     </div>
   </footer>
