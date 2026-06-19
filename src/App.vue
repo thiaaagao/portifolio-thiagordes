@@ -4,7 +4,6 @@ import NavbarComp from "./components/NavbarComp.vue"
 import HeroSection from "./components/HeroSection.vue"
 import SobreSection from "./components/SobreSection.vue"
 import HabilidadesSection from "./components/HabilidadesSection.vue"
-import ServicosSection from "./components/ServicosSection.vue"
 import ProjetosSection from "./components/ProjetosSection.vue"
 import AsatechSection from "./components/AsatechSection.vue"
 import ContatoSection from "./components/ContatoSection.vue"
@@ -31,7 +30,7 @@ onMounted(() => {
     { threshold: 0.1 }
   )
 
-  document.querySelectorAll(".section, .hero, .footer, .glass, .contato-item, .projeto-card, .servico-card").forEach((el) => {
+  document.querySelectorAll(".section, .hero, .footer, .glass, .contato-item, .projeto-card").forEach((el) => {
     observer.observe(el)
   })
 })
@@ -47,7 +46,6 @@ onUnmounted(() => {
   <HeroSection />
   <SobreSection />
   <HabilidadesSection />
-  <ServicosSection />
   <ProjetosSection />
   <AsatechSection />
   <ContatoSection />
