@@ -3,7 +3,7 @@ const contatos = [
   { icon: "ph-whatsapp-logo", label: "WhatsApp", value: "(75) 99105-7716", url: "https://wa.me/5575991057716" },
   { icon: "ph-envelope", label: "Email", value: "rdes.thiago@gmail.com", url: "mailto:rdes.thiago@gmail.com" },
   { icon: "ph-github-logo", label: "GitHub", value: "/thiaaagao", url: "https://github.com/thiaaagao" },
-  { icon: "ph-linkedin-logo", label: "LinkedIn", value: "Thiago Rodrigues", url: "https://linkedin.com/in/thiago-rodrigues" }
+  { icon: "ph-linkedin-logo", label: "LinkedIn", value: "Thiago Rodrigues", url: "https://www.linkedin.com/in/rdesthiago/" }
 ]
 </script>
 
