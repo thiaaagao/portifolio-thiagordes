@@ -1,0 +1,10 @@
+{
+  "framework": "vue",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "git": {
+    "deploymentEnabled": {
+      "master": true
+    }
+  }
+}
