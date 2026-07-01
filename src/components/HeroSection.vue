@@ -17,7 +17,7 @@
         <a href="https://github.com/thiaaagao" target="_blank" rel="noopener noreferrer" class="btn btn-glass">
           <i class="ph-github-logo"></i> GitHub
         </a>
-        <a href="https://linkedin.com/in/thiago-rodrigues" target="_blank" rel="noopener noreferrer" class="btn btn-glass">
+        <a href="https://www.linkedin.com/in/rdesthiago/" target="_blank" rel="noopener noreferrer" class="btn btn-glass">
           <i class="ph-linkedin-logo"></i> LinkedIn
         </a>
       </div>
